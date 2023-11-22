@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "843693409826",
+    "project_id": "tryyyy-4005e",
+    "storage_bucket": "tryyyy-4005e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843693409826:android:a7cd50c55f028e3a596c7b",
+        "android_client_info": {
+          "package_name": "com.example.atry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX_H8ZRmMs1y2dy1aj9yDarXE5vhAQAls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
